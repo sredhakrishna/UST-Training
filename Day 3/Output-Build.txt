@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Speed, Configuration: Debug Any CPU ------
+1>  Speed -> D:\Ust Training\Day 3\Speed\Speed\bin\Debug\Speed.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 9:56 PM and took 00.450 seconds ==========
