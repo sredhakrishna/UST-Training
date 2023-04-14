@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: String reverse1, Configuration: Debug Any CPU ------
+1>  String reverse1 -> D:\Ust Training\Day 4\String reverse1\String reverse1\bin\Debug\String reverse1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 12:53 AM and took 00.317 seconds ==========

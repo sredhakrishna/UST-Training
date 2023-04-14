@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: sorting Descending, Configuration: Debug Any CPU ------
+1>  sorting Descending -> D:\Ust Training\Day 4\sorting Descending\sorting Descending\bin\Debug\sorting Descending.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 11:41 PM and took 00.436 seconds ==========
