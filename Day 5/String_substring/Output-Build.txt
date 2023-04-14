@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: String_substring, Configuration: Debug Any CPU ------
+1>  String_substring -> D:\Ust Training\Day 5\String_substring\String_substring\bin\Debug\String_substring.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 1:15 PM and took 00.479 seconds ==========
