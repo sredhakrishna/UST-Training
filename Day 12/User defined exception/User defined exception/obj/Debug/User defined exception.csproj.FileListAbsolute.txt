@@ -1,0 +1,8 @@
+D:\Ust Training\Day 12\User defined exception\User defined exception\bin\Debug\User defined exception.exe.config
+D:\Ust Training\Day 12\User defined exception\User defined exception\bin\Debug\User defined exception.exe
+D:\Ust Training\Day 12\User defined exception\User defined exception\bin\Debug\User defined exception.pdb
+D:\Ust Training\Day 12\User defined exception\User defined exception\obj\Debug\User defined exception.csproj.AssemblyReference.cache
+D:\Ust Training\Day 12\User defined exception\User defined exception\obj\Debug\User defined exception.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 12\User defined exception\User defined exception\obj\Debug\User defined exception.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 12\User defined exception\User defined exception\obj\Debug\User defined exception.exe
+D:\Ust Training\Day 12\User defined exception\User defined exception\obj\Debug\User defined exception.pdb

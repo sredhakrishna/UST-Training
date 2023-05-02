@@ -1,0 +1,8 @@
+D:\Ust Training\Day 12\Directory Demo\Directory Demo\bin\Debug\Directory Demo.exe.config
+D:\Ust Training\Day 12\Directory Demo\Directory Demo\bin\Debug\Directory Demo.exe
+D:\Ust Training\Day 12\Directory Demo\Directory Demo\bin\Debug\Directory Demo.pdb
+D:\Ust Training\Day 12\Directory Demo\Directory Demo\obj\Debug\Directory Demo.csproj.AssemblyReference.cache
+D:\Ust Training\Day 12\Directory Demo\Directory Demo\obj\Debug\Directory Demo.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 12\Directory Demo\Directory Demo\obj\Debug\Directory Demo.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 12\Directory Demo\Directory Demo\obj\Debug\Directory Demo.exe
+D:\Ust Training\Day 12\Directory Demo\Directory Demo\obj\Debug\Directory Demo.pdb
