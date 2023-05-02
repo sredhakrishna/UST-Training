@@ -1,0 +1,8 @@
+D:\Ust Training\Day 10\Mail\Mail1\obj\Debug\Mail1.csproj.AssemblyReference.cache
+D:\Ust Training\Day 10\Mail\Mail1\obj\Debug\Mail1.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 10\Mail\Mail1\obj\Debug\Mail1.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 10\Mail\Mail1\bin\Debug\Mail1.exe.config
+D:\Ust Training\Day 10\Mail\Mail1\bin\Debug\Mail1.exe
+D:\Ust Training\Day 10\Mail\Mail1\bin\Debug\Mail1.pdb
+D:\Ust Training\Day 10\Mail\Mail1\obj\Debug\Mail1.exe
+D:\Ust Training\Day 10\Mail\Mail1\obj\Debug\Mail1.pdb
