@@ -1,0 +1,8 @@
+D:\Ust Training\Day 11\Carpool\Requirement 6\obj\Debug\Requirement 6.csproj.AssemblyReference.cache
+D:\Ust Training\Day 11\Carpool\Requirement 6\obj\Debug\Requirement 6.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 11\Carpool\Requirement 6\obj\Debug\Requirement 6.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 11\Carpool\Requirement 6\bin\Debug\Requirement 6.exe.config
+D:\Ust Training\Day 11\Carpool\Requirement 6\bin\Debug\Requirement 6.exe
+D:\Ust Training\Day 11\Carpool\Requirement 6\bin\Debug\Requirement 6.pdb
+D:\Ust Training\Day 11\Carpool\Requirement 6\obj\Debug\Requirement 6.exe
+D:\Ust Training\Day 11\Carpool\Requirement 6\obj\Debug\Requirement 6.pdb
