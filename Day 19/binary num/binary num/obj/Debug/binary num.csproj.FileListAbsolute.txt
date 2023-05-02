@@ -1,0 +1,8 @@
+D:\Ust Training\practice_k\binary num\binary num\bin\Debug\binary num.exe.config
+D:\Ust Training\practice_k\binary num\binary num\bin\Debug\binary num.exe
+D:\Ust Training\practice_k\binary num\binary num\bin\Debug\binary num.pdb
+D:\Ust Training\practice_k\binary num\binary num\obj\Debug\binary num.csproj.AssemblyReference.cache
+D:\Ust Training\practice_k\binary num\binary num\obj\Debug\binary num.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\practice_k\binary num\binary num\obj\Debug\binary num.csproj.CoreCompileInputs.cache
+D:\Ust Training\practice_k\binary num\binary num\obj\Debug\binary num.exe
+D:\Ust Training\practice_k\binary num\binary num\obj\Debug\binary num.pdb

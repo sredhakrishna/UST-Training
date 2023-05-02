@@ -1,0 +1,8 @@
+D:\Ust Training\practice_k\array_pallindrom\array_pallindrom\bin\Debug\array_pallindrom.exe.config
+D:\Ust Training\practice_k\array_pallindrom\array_pallindrom\bin\Debug\array_pallindrom.exe
+D:\Ust Training\practice_k\array_pallindrom\array_pallindrom\bin\Debug\array_pallindrom.pdb
+D:\Ust Training\practice_k\array_pallindrom\array_pallindrom\obj\Debug\array_pallindrom.csproj.AssemblyReference.cache
+D:\Ust Training\practice_k\array_pallindrom\array_pallindrom\obj\Debug\array_pallindrom.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\practice_k\array_pallindrom\array_pallindrom\obj\Debug\array_pallindrom.csproj.CoreCompileInputs.cache
+D:\Ust Training\practice_k\array_pallindrom\array_pallindrom\obj\Debug\array_pallindrom.exe
+D:\Ust Training\practice_k\array_pallindrom\array_pallindrom\obj\Debug\array_pallindrom.pdb
