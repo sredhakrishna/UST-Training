@@ -1,0 +1,8 @@
+D:\Ust Training\practice_k\amstrong num\amstrong num\bin\Debug\amstrong num.exe.config
+D:\Ust Training\practice_k\amstrong num\amstrong num\bin\Debug\amstrong num.exe
+D:\Ust Training\practice_k\amstrong num\amstrong num\bin\Debug\amstrong num.pdb
+D:\Ust Training\practice_k\amstrong num\amstrong num\obj\Debug\amstrong num.csproj.AssemblyReference.cache
+D:\Ust Training\practice_k\amstrong num\amstrong num\obj\Debug\amstrong num.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\practice_k\amstrong num\amstrong num\obj\Debug\amstrong num.csproj.CoreCompileInputs.cache
+D:\Ust Training\practice_k\amstrong num\amstrong num\obj\Debug\amstrong num.exe
+D:\Ust Training\practice_k\amstrong num\amstrong num\obj\Debug\amstrong num.pdb
