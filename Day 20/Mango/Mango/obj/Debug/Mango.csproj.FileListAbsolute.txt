@@ -1,0 +1,8 @@
+D:\Ust Training\Day 20\Mango\Mango\bin\Debug\Mango.exe.config
+D:\Ust Training\Day 20\Mango\Mango\bin\Debug\Mango.exe
+D:\Ust Training\Day 20\Mango\Mango\bin\Debug\Mango.pdb
+D:\Ust Training\Day 20\Mango\Mango\obj\Debug\Mango.csproj.AssemblyReference.cache
+D:\Ust Training\Day 20\Mango\Mango\obj\Debug\Mango.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 20\Mango\Mango\obj\Debug\Mango.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 20\Mango\Mango\obj\Debug\Mango.exe
+D:\Ust Training\Day 20\Mango\Mango\obj\Debug\Mango.pdb
