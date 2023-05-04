@@ -1,0 +1,25 @@
+What are assemblies?
+
+ 
+
+Assembly is a compiled output of program which are used for easy deployment of an application. It can be Dynamic Link Library or Executable file. It is generated only once for an application and upon 
+each subsequent compilation the assembly gets updated.An assembly consists of intemediate language.it consists of metadata and manifest.
+
+
+
+Types of assemblies:
+
+
+
+a. Private Assemblies: are accessible by a single application. They reside within the application folder and are unique by name. Special management registration and versioning are not required
+
+
+
+b. Shared Assemblies: are shared between multiple applications to ensure reusability. They are placed in GAC.
+
+
+
+c. Satellite Assemblies: are the assemblies to provide the support for multiple languages based on different cultures. These are kept in different modules based on the different categories available.
+
+
+

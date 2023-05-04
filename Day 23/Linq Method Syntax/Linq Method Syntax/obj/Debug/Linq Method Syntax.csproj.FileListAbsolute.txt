@@ -1,0 +1,8 @@
+D:\Ust Training\Day 23\Linq Method Syntax\Linq Method Syntax\bin\Debug\Linq Method Syntax.exe.config
+D:\Ust Training\Day 23\Linq Method Syntax\Linq Method Syntax\bin\Debug\Linq Method Syntax.exe
+D:\Ust Training\Day 23\Linq Method Syntax\Linq Method Syntax\bin\Debug\Linq Method Syntax.pdb
+D:\Ust Training\Day 23\Linq Method Syntax\Linq Method Syntax\obj\Debug\Linq Method Syntax.csproj.AssemblyReference.cache
+D:\Ust Training\Day 23\Linq Method Syntax\Linq Method Syntax\obj\Debug\Linq Method Syntax.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 23\Linq Method Syntax\Linq Method Syntax\obj\Debug\Linq Method Syntax.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 23\Linq Method Syntax\Linq Method Syntax\obj\Debug\Linq Method Syntax.exe
+D:\Ust Training\Day 23\Linq Method Syntax\Linq Method Syntax\obj\Debug\Linq Method Syntax.pdb

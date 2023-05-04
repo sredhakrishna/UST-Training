@@ -1,0 +1,8 @@
+D:\Ust Training\Day 23\linq method 3\linq method 3\bin\Debug\linq method 3.exe.config
+D:\Ust Training\Day 23\linq method 3\linq method 3\bin\Debug\linq method 3.exe
+D:\Ust Training\Day 23\linq method 3\linq method 3\bin\Debug\linq method 3.pdb
+D:\Ust Training\Day 23\linq method 3\linq method 3\obj\Debug\linq method 3.csproj.AssemblyReference.cache
+D:\Ust Training\Day 23\linq method 3\linq method 3\obj\Debug\linq method 3.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 23\linq method 3\linq method 3\obj\Debug\linq method 3.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 23\linq method 3\linq method 3\obj\Debug\linq method 3.exe
+D:\Ust Training\Day 23\linq method 3\linq method 3\obj\Debug\linq method 3.pdb

@@ -1,0 +1,8 @@
+D:\Ust Training\Day 23\Linq method 2\Linq method 2\bin\Debug\Linq method 2.exe.config
+D:\Ust Training\Day 23\Linq method 2\Linq method 2\bin\Debug\Linq method 2.exe
+D:\Ust Training\Day 23\Linq method 2\Linq method 2\bin\Debug\Linq method 2.pdb
+D:\Ust Training\Day 23\Linq method 2\Linq method 2\obj\Debug\Linq method 2.csproj.AssemblyReference.cache
+D:\Ust Training\Day 23\Linq method 2\Linq method 2\obj\Debug\Linq method 2.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 23\Linq method 2\Linq method 2\obj\Debug\Linq method 2.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 23\Linq method 2\Linq method 2\obj\Debug\Linq method 2.exe
+D:\Ust Training\Day 23\Linq method 2\Linq method 2\obj\Debug\Linq method 2.pdb

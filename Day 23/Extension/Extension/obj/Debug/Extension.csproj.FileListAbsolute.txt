@@ -1,0 +1,8 @@
+D:\Ust Training\Day 23\Extension\Extension\bin\Debug\Extension.exe.config
+D:\Ust Training\Day 23\Extension\Extension\bin\Debug\Extension.exe
+D:\Ust Training\Day 23\Extension\Extension\bin\Debug\Extension.pdb
+D:\Ust Training\Day 23\Extension\Extension\obj\Debug\Extension.csproj.AssemblyReference.cache
+D:\Ust Training\Day 23\Extension\Extension\obj\Debug\Extension.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 23\Extension\Extension\obj\Debug\Extension.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 23\Extension\Extension\obj\Debug\Extension.exe
+D:\Ust Training\Day 23\Extension\Extension\obj\Debug\Extension.pdb
