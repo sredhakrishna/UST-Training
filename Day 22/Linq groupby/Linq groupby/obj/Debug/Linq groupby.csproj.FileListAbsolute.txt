@@ -1,0 +1,8 @@
+D:\Ust Training\Day 22\Linq groupby\Linq groupby\bin\Debug\Linq groupby.exe.config
+D:\Ust Training\Day 22\Linq groupby\Linq groupby\bin\Debug\Linq groupby.exe
+D:\Ust Training\Day 22\Linq groupby\Linq groupby\bin\Debug\Linq groupby.pdb
+D:\Ust Training\Day 22\Linq groupby\Linq groupby\obj\Debug\Linq groupby.csproj.AssemblyReference.cache
+D:\Ust Training\Day 22\Linq groupby\Linq groupby\obj\Debug\Linq groupby.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 22\Linq groupby\Linq groupby\obj\Debug\Linq groupby.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 22\Linq groupby\Linq groupby\obj\Debug\Linq groupby.exe
+D:\Ust Training\Day 22\Linq groupby\Linq groupby\obj\Debug\Linq groupby.pdb

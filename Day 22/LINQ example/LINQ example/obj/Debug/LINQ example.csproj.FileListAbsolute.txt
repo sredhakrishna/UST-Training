@@ -1,0 +1,8 @@
+D:\Ust Training\Day 22\LINQ example\LINQ example\bin\Debug\LINQ example.exe.config
+D:\Ust Training\Day 22\LINQ example\LINQ example\bin\Debug\LINQ example.exe
+D:\Ust Training\Day 22\LINQ example\LINQ example\bin\Debug\LINQ example.pdb
+D:\Ust Training\Day 22\LINQ example\LINQ example\obj\Debug\LINQ example.csproj.AssemblyReference.cache
+D:\Ust Training\Day 22\LINQ example\LINQ example\obj\Debug\LINQ example.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 22\LINQ example\LINQ example\obj\Debug\LINQ example.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 22\LINQ example\LINQ example\obj\Debug\LINQ example.exe
+D:\Ust Training\Day 22\LINQ example\LINQ example\obj\Debug\LINQ example.pdb
