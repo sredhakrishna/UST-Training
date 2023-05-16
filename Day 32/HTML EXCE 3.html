@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+    <head>
+        <title>HTML3</title>
+    </head>
+    <body>
+        <h1>This is an example of OOPS</h1>
+        <pre>
+using System;
+
+
+namespace voting
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int a = 0;
+            Console.WriteLine("enter your age");
+            a = int.Parse(Console.ReadLine());
+            string b;
+            b = Checking(a);
+            Console.WriteLine(b);
+        }
+        static string Checking(int a) 
+        {
+            string c;
+            if (a >= 18)
+            {
+                //c = true;
+                c = "eligible";
+            }      
+            else
+            { 
+                c = "not";
+            }
+            return c;
+        }
+        }
+       
+    }
+
+        </pre>
+    </body>
+</html>
