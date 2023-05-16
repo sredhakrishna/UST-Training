@@ -1,0 +1,12 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>Image mapping</title>
+</head>
+<body>
+<img src ="D:\Ust Training\Day 33\image\maping.png" >
+</body>
+</html>
+
+
+
