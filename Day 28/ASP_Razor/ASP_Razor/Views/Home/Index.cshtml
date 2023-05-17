@@ -1,0 +1,100 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@*<a href="mailto:Support@contoso.com">Support@contoso.com</a>
+implicit razor expression
+<p>@DateTime.Now</p>
+<p>@DateTime.IsLeapYear(2016)</p>
+//Explicit razor Exp
+<p>Last week this time: @(DateTime.Now - TimeSpan.FromDays(7))</p>*@
+<p>2 + 5 = @(2 + 5)</p>
+
+
+@{
+    var joe = new Person("Joe", 33);
+}
+
+<p>Age@(joe.Age)</p>
+
+<p>Name@(joe.Name)</p>
+
+@{
+   
+    var coursename = ". net Collection";
+}  
+<p>The Course is @coursename </p>
+
+@{
+    var quote = "The future depends on what you do today. - Mahatma Gandhi";
+}
+
+<p>@quote</p>
+
+@{
+    quote = "Hate cannot drive out hate, only love can do that. - Martin Luther King, Jr.";
+}
+
+<p>@quote</p>
+
+
+
+
+@{
+    void RenderName(string name)
+    {
+        <p>Name: <strong>@name</strong></p>
+    }
+
+    RenderName("Mahatma Gandhi");
+    RenderName("Martin Luther King, Jr.");
+}
+
+
+
+@{
+    var inCSharp = true;
+    <p>Now in HTML, was in C# @inCSharp</p>
+}
+
+ 
+@{
+    string[] people = { "sredha", "manjima" };
+    
+    for (var i = 0; i < people.Length; i++)
+{
+    var person = people[i];
+    <text>Name: @person</text><br>
+}}
+
+@for (var i = 0; i < people.Length; i++)
+{
+    var person = people[i];
+    @:Name: @person
+}
+
+@{
+    int value = 11;
+    if (value % 2 == 0)
+{
+    <p>The value was even.</p>
+    
+}
+    else{<p> odd value</p>}
+
+}
+
+@{
+    value=1337;
+switch (value)
+{
+    case 1:
+        <p>The value is 1!</p>
+        break;
+    case 1337:
+        <p>Your number is 1337!</p>
+        break;
+    default:
+        <p>Your number wasn't 1 or 1337.</p>
+        break;
+}}
