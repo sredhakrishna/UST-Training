@@ -1,0 +1,8 @@
+D:\Ust Training\Day 29\leetcode qn\leetcode qn\bin\Debug\leetcode qn.exe.config
+D:\Ust Training\Day 29\leetcode qn\leetcode qn\bin\Debug\leetcode qn.exe
+D:\Ust Training\Day 29\leetcode qn\leetcode qn\bin\Debug\leetcode qn.pdb
+D:\Ust Training\Day 29\leetcode qn\leetcode qn\obj\Debug\leetcode qn.csproj.AssemblyReference.cache
+D:\Ust Training\Day 29\leetcode qn\leetcode qn\obj\Debug\leetcode qn.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 29\leetcode qn\leetcode qn\obj\Debug\leetcode qn.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 29\leetcode qn\leetcode qn\obj\Debug\leetcode qn.exe
+D:\Ust Training\Day 29\leetcode qn\leetcode qn\obj\Debug\leetcode qn.pdb
