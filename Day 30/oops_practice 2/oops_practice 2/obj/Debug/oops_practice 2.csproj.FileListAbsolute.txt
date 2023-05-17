@@ -1,0 +1,8 @@
+D:\Ust Training\Day 30\oops_practice 2\oops_practice 2\bin\Debug\oops_practice 2.exe.config
+D:\Ust Training\Day 30\oops_practice 2\oops_practice 2\bin\Debug\oops_practice 2.exe
+D:\Ust Training\Day 30\oops_practice 2\oops_practice 2\bin\Debug\oops_practice 2.pdb
+D:\Ust Training\Day 30\oops_practice 2\oops_practice 2\obj\Debug\oops_practice 2.csproj.AssemblyReference.cache
+D:\Ust Training\Day 30\oops_practice 2\oops_practice 2\obj\Debug\oops_practice 2.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 30\oops_practice 2\oops_practice 2\obj\Debug\oops_practice 2.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 30\oops_practice 2\oops_practice 2\obj\Debug\oops_practice 2.exe
+D:\Ust Training\Day 30\oops_practice 2\oops_practice 2\obj\Debug\oops_practice 2.pdb
