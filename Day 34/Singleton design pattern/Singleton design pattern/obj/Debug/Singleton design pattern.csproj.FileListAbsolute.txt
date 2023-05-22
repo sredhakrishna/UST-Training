@@ -1,0 +1,8 @@
+D:\Ust Training\Day 34\Singleton design pattern\Singleton design pattern\bin\Debug\Singleton design pattern.exe.config
+D:\Ust Training\Day 34\Singleton design pattern\Singleton design pattern\bin\Debug\Singleton design pattern.exe
+D:\Ust Training\Day 34\Singleton design pattern\Singleton design pattern\bin\Debug\Singleton design pattern.pdb
+D:\Ust Training\Day 34\Singleton design pattern\Singleton design pattern\obj\Debug\Singleton design pattern.csproj.AssemblyReference.cache
+D:\Ust Training\Day 34\Singleton design pattern\Singleton design pattern\obj\Debug\Singleton design pattern.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 34\Singleton design pattern\Singleton design pattern\obj\Debug\Singleton design pattern.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 34\Singleton design pattern\Singleton design pattern\obj\Debug\Singleton design pattern.exe
+D:\Ust Training\Day 34\Singleton design pattern\Singleton design pattern\obj\Debug\Singleton design pattern.pdb
