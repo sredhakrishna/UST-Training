@@ -1,0 +1,50 @@
+<!doctype>
+<html>
+    <head>
+        <title>Accept 2 nums from user</title>
+        <script type="text/javascript">
+        function addnums(){
+             var num1=Number(document.getElementById("textbox1").value);
+             var num2=Number(document.getElementById("textbox2").value);
+               
+             
+             var num3=num1+num2;
+             document.getElementById("pri").value=num3}
+             function subnums(){
+             var num1=Number(document.getElementById("textbox1").value);
+             var num2=Number(document.getElementById("textbox2").value);
+               
+             
+             var num3=num1-num2;
+             document.getElementById("pri").value=num3}
+             function mulnums(){
+             var num1=Number(document.getElementById("textbox1").value);
+             var num2=Number(document.getElementById("textbox2").value);
+               
+             
+             var num3=num1*num2;
+             document.getElementById("pri").value=num3}
+             function divnums(){
+             var num1=Number(document.getElementById("textbox1").value);
+             var num2=Number(document.getElementById("textbox2").value);
+               
+             
+             var num3=num1/num2;
+             document.getElementById("pri").value=num3;
+             }
+        </script>
+    </head>
+    <body>
+        <p><input type="text" id="textbox1" placeholder="enter num1">Enter first num</p>
+        <p><input type="text" id="textbox2" placeholder="enter num2">Enter second num</p>
+        <p>
+            <input type="button" id="Print"  value="add" onclick="addnums()" />
+            <input type="button" id="Print1" value="Sub" onclick="subnums()" />
+            <input type="button" id="Print3" value="mul" onclick="mulnums()" />
+            <input type="button" id="Print4"  value="div" onclick="divnums()" />
+            
+        </p>
+       <input type="text" id="pri" value="ans">
+
+    </body>
+</html>
