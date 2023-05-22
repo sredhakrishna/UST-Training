@@ -1,0 +1,8 @@
+D:\Ust Training\Day 35\3sum\3sum\bin\Debug\3sum.exe.config
+D:\Ust Training\Day 35\3sum\3sum\bin\Debug\3sum.exe
+D:\Ust Training\Day 35\3sum\3sum\bin\Debug\3sum.pdb
+D:\Ust Training\Day 35\3sum\3sum\obj\Debug\3sum.csproj.AssemblyReference.cache
+D:\Ust Training\Day 35\3sum\3sum\obj\Debug\3sum.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 35\3sum\3sum\obj\Debug\3sum.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 35\3sum\3sum\obj\Debug\3sum.exe
+D:\Ust Training\Day 35\3sum\3sum\obj\Debug\3sum.pdb

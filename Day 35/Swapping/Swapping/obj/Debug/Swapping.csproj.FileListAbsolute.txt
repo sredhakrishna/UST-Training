@@ -1,0 +1,8 @@
+D:\Ust Training\Day 35\Swapping\Swapping\bin\Debug\Swapping.exe.config
+D:\Ust Training\Day 35\Swapping\Swapping\bin\Debug\Swapping.exe
+D:\Ust Training\Day 35\Swapping\Swapping\bin\Debug\Swapping.pdb
+D:\Ust Training\Day 35\Swapping\Swapping\obj\Debug\Swapping.csproj.AssemblyReference.cache
+D:\Ust Training\Day 35\Swapping\Swapping\obj\Debug\Swapping.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 35\Swapping\Swapping\obj\Debug\Swapping.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 35\Swapping\Swapping\obj\Debug\Swapping.exe
+D:\Ust Training\Day 35\Swapping\Swapping\obj\Debug\Swapping.pdb
