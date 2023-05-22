@@ -1,0 +1,8 @@
+D:\Ust Training\Day 35\practice\practice\bin\Debug\practice.exe.config
+D:\Ust Training\Day 35\practice\practice\bin\Debug\practice.exe
+D:\Ust Training\Day 35\practice\practice\bin\Debug\practice.pdb
+D:\Ust Training\Day 35\practice\practice\obj\Debug\practice.csproj.AssemblyReference.cache
+D:\Ust Training\Day 35\practice\practice\obj\Debug\practice.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 35\practice\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 35\practice\practice\obj\Debug\practice.exe
+D:\Ust Training\Day 35\practice\practice\obj\Debug\practice.pdb
