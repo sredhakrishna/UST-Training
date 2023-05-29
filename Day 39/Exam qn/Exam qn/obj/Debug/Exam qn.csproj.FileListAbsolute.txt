@@ -1,0 +1,8 @@
+D:\Ust Training\Day 39\Exam qn\Exam qn\bin\Debug\Exam qn.exe.config
+D:\Ust Training\Day 39\Exam qn\Exam qn\bin\Debug\Exam qn.exe
+D:\Ust Training\Day 39\Exam qn\Exam qn\bin\Debug\Exam qn.pdb
+D:\Ust Training\Day 39\Exam qn\Exam qn\obj\Debug\Exam qn.csproj.AssemblyReference.cache
+D:\Ust Training\Day 39\Exam qn\Exam qn\obj\Debug\Exam qn.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 39\Exam qn\Exam qn\obj\Debug\Exam qn.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 39\Exam qn\Exam qn\obj\Debug\Exam qn.exe
+D:\Ust Training\Day 39\Exam qn\Exam qn\obj\Debug\Exam qn.pdb
