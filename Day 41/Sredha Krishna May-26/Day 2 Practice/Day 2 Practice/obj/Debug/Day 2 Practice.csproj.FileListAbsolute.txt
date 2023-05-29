@@ -1,0 +1,8 @@
+D:\Ust Training\Day 41\Day 2 Practice\Day 2 Practice\bin\Debug\Day 2 Practice.exe.config
+D:\Ust Training\Day 41\Day 2 Practice\Day 2 Practice\bin\Debug\Day 2 Practice.exe
+D:\Ust Training\Day 41\Day 2 Practice\Day 2 Practice\bin\Debug\Day 2 Practice.pdb
+D:\Ust Training\Day 41\Day 2 Practice\Day 2 Practice\obj\Debug\Day 2 Practice.csproj.AssemblyReference.cache
+D:\Ust Training\Day 41\Day 2 Practice\Day 2 Practice\obj\Debug\Day 2 Practice.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 41\Day 2 Practice\Day 2 Practice\obj\Debug\Day 2 Practice.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 41\Day 2 Practice\Day 2 Practice\obj\Debug\Day 2 Practice.exe
+D:\Ust Training\Day 41\Day 2 Practice\Day 2 Practice\obj\Debug\Day 2 Practice.pdb

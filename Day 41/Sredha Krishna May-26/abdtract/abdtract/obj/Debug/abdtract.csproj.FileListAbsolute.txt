@@ -1,0 +1,8 @@
+D:\Ust Training\Day 41\abdtract\abdtract\bin\Debug\abdtract.exe.config
+D:\Ust Training\Day 41\abdtract\abdtract\bin\Debug\abdtract.exe
+D:\Ust Training\Day 41\abdtract\abdtract\bin\Debug\abdtract.pdb
+D:\Ust Training\Day 41\abdtract\abdtract\obj\Debug\abdtract.csproj.AssemblyReference.cache
+D:\Ust Training\Day 41\abdtract\abdtract\obj\Debug\abdtract.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 41\abdtract\abdtract\obj\Debug\abdtract.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 41\abdtract\abdtract\obj\Debug\abdtract.exe
+D:\Ust Training\Day 41\abdtract\abdtract\obj\Debug\abdtract.pdb
