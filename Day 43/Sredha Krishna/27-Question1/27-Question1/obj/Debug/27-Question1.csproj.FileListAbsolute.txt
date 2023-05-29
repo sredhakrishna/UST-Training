@@ -1,0 +1,8 @@
+D:\Ust Training\Day 42\27-Question1\27-Question1\bin\Debug\27-Question1.exe.config
+D:\Ust Training\Day 42\27-Question1\27-Question1\bin\Debug\27-Question1.exe
+D:\Ust Training\Day 42\27-Question1\27-Question1\bin\Debug\27-Question1.pdb
+D:\Ust Training\Day 42\27-Question1\27-Question1\obj\Debug\27-Question1.csproj.AssemblyReference.cache
+D:\Ust Training\Day 42\27-Question1\27-Question1\obj\Debug\27-Question1.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 42\27-Question1\27-Question1\obj\Debug\27-Question1.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 42\27-Question1\27-Question1\obj\Debug\27-Question1.exe
+D:\Ust Training\Day 42\27-Question1\27-Question1\obj\Debug\27-Question1.pdb
