@@ -1,0 +1,8 @@
+D:\Ust Training\Day 40\first qn\first qn\bin\Debug\first qn.exe.config
+D:\Ust Training\Day 40\first qn\first qn\bin\Debug\first qn.exe
+D:\Ust Training\Day 40\first qn\first qn\bin\Debug\first qn.pdb
+D:\Ust Training\Day 40\first qn\first qn\obj\Debug\first qn.csproj.AssemblyReference.cache
+D:\Ust Training\Day 40\first qn\first qn\obj\Debug\first qn.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 40\first qn\first qn\obj\Debug\first qn.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 40\first qn\first qn\obj\Debug\first qn.exe
+D:\Ust Training\Day 40\first qn\first qn\obj\Debug\first qn.pdb

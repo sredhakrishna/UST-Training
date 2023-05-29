@@ -1,0 +1,8 @@
+D:\Ust Training\Day 40\1D arraay intro\1D arraay intro\bin\Debug\1D arraay intro.exe.config
+D:\Ust Training\Day 40\1D arraay intro\1D arraay intro\bin\Debug\1D arraay intro.exe
+D:\Ust Training\Day 40\1D arraay intro\1D arraay intro\bin\Debug\1D arraay intro.pdb
+D:\Ust Training\Day 40\1D arraay intro\1D arraay intro\obj\Debug\1D arraay intro.csproj.AssemblyReference.cache
+D:\Ust Training\Day 40\1D arraay intro\1D arraay intro\obj\Debug\1D arraay intro.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 40\1D arraay intro\1D arraay intro\obj\Debug\1D arraay intro.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 40\1D arraay intro\1D arraay intro\obj\Debug\1D arraay intro.exe
+D:\Ust Training\Day 40\1D arraay intro\1D arraay intro\obj\Debug\1D arraay intro.pdb

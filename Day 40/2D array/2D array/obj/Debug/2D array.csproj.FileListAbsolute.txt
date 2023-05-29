@@ -1,0 +1,8 @@
+D:\Ust Training\Day 40\2D array\2D array\bin\Debug\2D array.exe.config
+D:\Ust Training\Day 40\2D array\2D array\bin\Debug\2D array.exe
+D:\Ust Training\Day 40\2D array\2D array\bin\Debug\2D array.pdb
+D:\Ust Training\Day 40\2D array\2D array\obj\Debug\2D array.csproj.AssemblyReference.cache
+D:\Ust Training\Day 40\2D array\2D array\obj\Debug\2D array.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 40\2D array\2D array\obj\Debug\2D array.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 40\2D array\2D array\obj\Debug\2D array.exe
+D:\Ust Training\Day 40\2D array\2D array\obj\Debug\2D array.pdb

@@ -1,0 +1,8 @@
+D:\Ust Training\Day 40\String replace\String replace\bin\Debug\String replace.exe.config
+D:\Ust Training\Day 40\String replace\String replace\bin\Debug\String replace.exe
+D:\Ust Training\Day 40\String replace\String replace\bin\Debug\String replace.pdb
+D:\Ust Training\Day 40\String replace\String replace\obj\Debug\String replace.csproj.AssemblyReference.cache
+D:\Ust Training\Day 40\String replace\String replace\obj\Debug\String replace.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 40\String replace\String replace\obj\Debug\String replace.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 40\String replace\String replace\obj\Debug\String replace.exe
+D:\Ust Training\Day 40\String replace\String replace\obj\Debug\String replace.pdb
