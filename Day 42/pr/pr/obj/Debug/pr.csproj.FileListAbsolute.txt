@@ -1,0 +1,8 @@
+D:\Ust Training\Day 42\pr\pr\bin\Debug\pr.exe.config
+D:\Ust Training\Day 42\pr\pr\bin\Debug\pr.exe
+D:\Ust Training\Day 42\pr\pr\bin\Debug\pr.pdb
+D:\Ust Training\Day 42\pr\pr\obj\Debug\pr.csproj.AssemblyReference.cache
+D:\Ust Training\Day 42\pr\pr\obj\Debug\pr.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 42\pr\pr\obj\Debug\pr.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 42\pr\pr\obj\Debug\pr.exe
+D:\Ust Training\Day 42\pr\pr\obj\Debug\pr.pdb
