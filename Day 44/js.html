@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+    <head>
+
+    </head>
+    <body>
+       var a= <input type="text" name="f" id="fi">
+       var b=<input type="text" name="s" id="se">
+       
+       <button onclick="area(parseInt(document.getElementById('fi').value), parseInt(document.getElementById('se').value))">click here</button>
+       <button onclick="area2()">click 2</button>
+       <script>
+           function area(a,b){
+           var s=a*b;
+              document.write(s)
+           }
+           function area2(){
+            var r=parseInt(document.getElementById("fi").value)*parseInt(document.getElementById("se").value);
+            document.write(r);
+           }
+       </script>
+    </body>
+</html>

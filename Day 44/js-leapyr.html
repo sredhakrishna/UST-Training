@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+    <head>
+
+    </head>
+    <body>
+         <input type="text" id="ok" placeholder="Enter year">
+        <button onclick="leapyear()">try</button>
+        <script>
+            function leapyear(){
+                var c=parseInt(document.getElementById("ok").value);
+                if(c%400===0 && c%100===0){
+                    document.write("leap year");
+                }
+                else if(c%4===0){
+                    document.write("leap year");
+                }
+                else{
+                    document.write("Not a leap year");
+                }
+            }
+        </script>
+    </body>
+</html>

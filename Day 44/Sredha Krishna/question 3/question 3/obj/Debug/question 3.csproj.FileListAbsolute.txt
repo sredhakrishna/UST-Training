@@ -1,0 +1,8 @@
+D:\Ust Training\Day 44\Sredha Krishna\question 3\question 3\bin\Debug\question 3.exe.config
+D:\Ust Training\Day 44\Sredha Krishna\question 3\question 3\bin\Debug\question 3.exe
+D:\Ust Training\Day 44\Sredha Krishna\question 3\question 3\bin\Debug\question 3.pdb
+D:\Ust Training\Day 44\Sredha Krishna\question 3\question 3\obj\Debug\question 3.csproj.AssemblyReference.cache
+D:\Ust Training\Day 44\Sredha Krishna\question 3\question 3\obj\Debug\question 3.csproj.SuggestedBindingRedirects.cache
+D:\Ust Training\Day 44\Sredha Krishna\question 3\question 3\obj\Debug\question 3.csproj.CoreCompileInputs.cache
+D:\Ust Training\Day 44\Sredha Krishna\question 3\question 3\obj\Debug\question 3.exe
+D:\Ust Training\Day 44\Sredha Krishna\question 3\question 3\obj\Debug\question 3.pdb
