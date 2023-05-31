@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<body>
+    <script>
+        var str=prompt("enter string");
+        var res=check();
+        document.write(res);
+        function check(){
+            if(str.startsWith("Py")){
+                return str;
+            }
+            else{
+               var str1= str.split('');
+                str1[0]="Py";
+                var str3= str1.join('');
+                return str3;
+            }
+        }
+    </script>
+</body>
+</html>

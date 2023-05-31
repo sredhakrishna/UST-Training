@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" name="rev" id="rev" placeholder="enter a num">
+    <button onclick="preReverse()"> click here</button>
+    <script>
+        function preReverse(){
+           let s=parseInt(document.getElementById("rev").value);
+            let res=reverse(s);
+            document.write(res)
+        }
+        function reverse(s){
+            let revnum=0;
+            let rem=0;
+            
+            while(s>0){
+                rem=s%10;
+                revnum=revnum*10+rem;
+                s = Math.floor(s / 10);
+            }
+            return revnum;
+        }
+    </script>
+</body>
+</html>
