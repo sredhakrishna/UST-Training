@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="PW2.css">
+</head>
+<body>
+    <div >
+        <div class="anu">
+    <label> User Name: </label>
+
+    <input type="text" id="uname" placeholder="user name"><br>
+
+    <br>
+
+    <label> Password </label>
+
+    <input type="password" id="pwd" placeholder=" password" oninput="valpw()"><br>
+
+    <br>
+    <p id="true"></p>
+
+    <label> Confirm Password </label>
+
+    <input type="password" id="cnfrmpwd" placeholder="confirm password" oninput="val()"><br>
+
+    <br>
+    <p id="conf"></p>
+    <button onclick="val()" id="btn">Submit</button>
+</div>
+</div>
+    <script>
+        function valpw(){
+        let str=document.getElementById("pwd").value;
+            let psv=/^(?=.*[A-Z])(?=.*[a-z0-9])(?=.*[^A-Za-z0-9]).{8,}$/
+            if(psv.test(str)){
+               document.getElementById("true").innerHTML="";
+            }
+            else{
+                document.getElementById("true").innerHTML="Password invalid";
+            }
+
+        }
+
+
+
+        function val(){
+            let str=document.getElementById("pwd").value;
+            // let psv=/^(?=.*[A-Z])(?=.*[a-z0-9])(?=.*[^A-Za-z0-9]).{8,}$/
+            
+            let str2=document.getElementById("cnfrmpwd").value;
+            
+            if(str===str2){
+                document.getElementById("conf").innerHTML="Passwords Are Equal"
+            }
+            else{
+                document.getElementById("conf").innerHTML="Passwords Are not Equal"
+            }
+            
+        }
+    </script>
+</body>
+</html>

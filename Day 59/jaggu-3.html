@@ -1,0 +1,41 @@
+<!-- Accept user input of 2 numbers. Based on the value selected in the dropdown list, do addition, 
+subtraction and multiplication to produce result in a div on button click. -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <label for="">Enter first num</label>
+    <input type="text" id="fi"><br>
+    <label for="">Enter Secnds num</label>
+    <input type="text" id="se"><br>
+    <label for="">Select option</label>
+    <select id="option">
+        <option value="addition" id="ad">Addition</option>
+        <option value="subtraction" id=" su">subtraction</option>
+        <option value="division" id=" di">Division</option>
+    </select><br>
+    <button id="btn" onclick="calc()">Calculate</button>
+    <input type="text" id="result">
+    <script>
+        function calc(){
+            let fn=parseInt(document.getElementById("fi").value);
+            let sn=parseInt(document.getElementById("se").value);
+            let op=document.getElementById("option").value;
+            if(op==="addition"){
+                document.getElementById("result").value=fn+sn;
+            }
+            else if(op==="subtraction"){
+               document.getElementById("result").value=fn-sn; 
+            }
+            else{
+                 document.getElementById("result").value=fn*sn;
+            }
+        }
+    </script>
+</body>
+</html>
