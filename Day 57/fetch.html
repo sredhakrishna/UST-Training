@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fetch from json</title>
+</head>
+<body>
+    <h1>Fetching</h1>
+    <div id="output">The data are   </div>
+    <button onclick="fectData()">check</button>
+    <script>
+         function fectData(){
+            fetch('https://dummyjson.com/products/1')
+            .then(response=>response.json())
+            .then(data=>{
+                //output.innerHTML=+"id:"+data.id+"<br>";
+                // output.innerHTML=+"brand:"+data.brand
+                output.innerHTML += "id = " + data.id + "<br>";
+                output.innerHTML += "brand = " + data.brand + "<br>";
+            })
+        }
+    </script>
+</body>
+</html>

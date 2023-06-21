@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Countries Dropdown</title>
+</head>
+<body>
+    <label for="countries">Select a country:</label>
+    <select id="countries"></select>
+
+    <script>
+        window.addEventListener('load', function() {
+            var countries = [
+                "Afghanistan",
+                "Albania",
+                "Algeria",
+                "Andorra",
+                "Angola",
+                // Add more countries as needed
+            ];
+
+            var select = document.getElementById("countries");
+
+            // Populate the dropdown list with countries
+            for (var i = 0; i < countries.length; i++) {
+                var option = document.createElement("option");
+                option.text = countries[i];
+                select.add(option);
+            }
+        });
+    </script>
+</body>
+</html>

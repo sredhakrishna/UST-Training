@@ -1,0 +1,29 @@
+
+<!-- Create a form to accept two numbers using textboxes and on key up event of the textboxes, display the sum of those two numbers in result div.
+When the focus received, the current textbox background color should become yellow. On blur, it should become white. -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" name="" id="num1" placeholder="enter num1">
+    <input type="text" name="" id="num2" placeholder="enter num2">
+    <button onclick="fun()">submit</button>
+<div id="result">
+    
+</div>
+<script>
+    function fun(){
+        let num1=parseInt(document.getElementById("num1").value);
+        let num2=parseInt(document.getElementById("num2").value);
+        document.getElementById("res").textContent= num1+num2;
+       
+        //result.background-clolor=green;
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!-- Create a HTML form to accept user's name, date of birth, email id. 
+Validate the age of the user and if the age is equal or above 18, 
+allow the user to view a video. Else display error message that you are 
+not eligible to play the video. Validate the email -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="">
+        <label for="">Name</label><br>
+        <input type="text" id="name"><br>
+        <label for="">Date of Birth</label><br>
+        <input type="date" id="date"><br>
+        <label for="">Email</label><br>
+        <input type="text" id="email">
+    </form>
+    <p id="p1"></p>
+    <p id="p2"></p>
+    <button onclick="vdo()">Play Video</button>
+
+    <script>
+        function vdo(){
+            let date=document.getElementById("date").value;
+            let year= new Date(date).getFullYear();
+            
+            let tyr=new Date();
+            let today=tyr.getFullYear();
+            
+            let email=document.getElementById("email").value;
+            let em=/^[A-Za-z0-9]+[@]{1}[A-Za-z0-9]+[.]{1}[A-Za-z0-9]+/
+
+            if(today-year>=18&&em.test(email)){
+            const video = document.createElement('video');
+            video.src = "https://www.microsoft.com/en-us/videoplayer/embed/RE4U5xs?pid=ocpVideo1-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&reporting=true&market=en-us";
+            video.type = 'video/mp4';
+            video.width = 640;
+            video.height = 360;
+            video.controls = true;
+            document.body.appendChild(video);
+
+            }
+            else {
+                document.getElementById("p1").innerHTML="Can not play this video"
+            }
+
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        arr=[{"product":"Mango","Price":30,"Quantity":4},{"product":"orange","Price":60,"Quantity":5}]
+        let total=0;
+       arr.forEach(element => {
+       //const {Price,Quantity}=element;
+       const subt=element.Price*element.Quantity;
+       total+=subt;
+       
+        });
+        document.write(total)
+        
+    </script>
+</body>
+</html>
